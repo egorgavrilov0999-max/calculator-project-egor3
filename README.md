@@ -1,1 +1,1 @@
-# calculator-project-egor3
+# проект калькулятор егор
